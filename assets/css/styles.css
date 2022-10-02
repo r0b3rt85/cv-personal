@@ -524,7 +524,7 @@ img {
   }
 }
 /* Classes modified for large screen sizes */
-@media screen and (min-width: 968px) {
+@media screen and (min-width: 968px){
   body {
     margin: 3rem 0;
   }
